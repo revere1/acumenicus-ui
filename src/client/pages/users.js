@@ -11,7 +11,7 @@ class Users extends Component {
     return (
       <Helmet>
         <body className="notFoundPage" />
-        <title>Users - React Starter Kit</title>
+        <title>Users - Acumenicus Research</title>
       </Helmet>
     );
   }

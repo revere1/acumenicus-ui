@@ -35,7 +35,7 @@ class Login extends Component {
     return (
       <Helmet>
         <body className="logInPage" />
-        <title>LogIn - React Starter Kit</title>
+        <title>LogIn - Acumenicus Research</title>
       </Helmet>
     );
   }

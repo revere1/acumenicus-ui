@@ -40,7 +40,7 @@ class Reset extends Component {
     return (
       <Helmet>
         <body className="resetPage" />
-        <title>Reset - React Starter Kit</title>
+        <title>Reset - Acumenicus Research</title>
       </Helmet>
     );
   }

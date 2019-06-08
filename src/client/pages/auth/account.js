@@ -17,7 +17,7 @@ class Account extends Component {
     return (
       <Helmet>
         <body className="accountPage" />
-        <title>Account - React Starter Kit</title>
+        <title>Account -Acumenicus Research</title>
       </Helmet>
     );
   }

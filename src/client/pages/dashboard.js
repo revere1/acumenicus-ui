@@ -7,7 +7,7 @@ class Dashboard extends Component {
     return (
       <Helmet>
         <body className="dashboardPage" />
-        <title>Dashboard - React Starter Kit</title>
+        <title>Dashboard - Acumenicus Research</title>
       </Helmet>
     );
   }

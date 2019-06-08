@@ -13,7 +13,7 @@ class LogOut extends Component {
     return (
       <Helmet>
         <body className="logOutPage" />
-        <title>LogOut - React Starter Kit</title>
+        <title>LogOut - Acumenicus Research</title>
       </Helmet>
     );
   }

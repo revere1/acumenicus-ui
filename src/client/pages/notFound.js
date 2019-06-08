@@ -8,7 +8,7 @@ class NotFound extends Component {
     return (
       <Helmet>
         <body className="notFoundPage" />
-        <title>Not Found 404 - React Starter Kit</title>
+        <title>Not Found 404 - Acumenicus Research</title>
       </Helmet>
     );
   }

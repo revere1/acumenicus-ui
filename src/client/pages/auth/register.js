@@ -42,7 +42,7 @@ class Register extends Component {
     return (
       <Helmet>
         <body className="registerPage" />
-        <title>Register - React Starter Kit</title>
+        <title>Register - Acumenicus Research</title>
       </Helmet>
     );
   }
