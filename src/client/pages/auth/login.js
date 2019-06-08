@@ -83,6 +83,24 @@ class Login extends Component {
 
             </div>
 
+            <div className="form_buttons">
+              <a href="#" className="google btn"><i className="fab fa-google">
+              </i> &nbsp;&nbsp;Login with Google
+              </a>
+            </div>
+
+            {/* <div className="formBottomLinks">
+              <p>
+                <input type="checkbox" name="rememberMe" />Remember Me
+              &nbsp;&nbsp;
+                Forgot your password? <NavLink to="/account-recovery">Reset here</NavLink>
+              </p>
+              <p>
+                Don't have an account? <NavLink to="/signup">Join now!</NavLink>
+              </p>
+
+            </div> */}
+
             <div className={classNames({ 'form_buttons': true })}>
 
               <button className="btn" type="submit">
